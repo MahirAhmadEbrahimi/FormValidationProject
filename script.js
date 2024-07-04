@@ -3,6 +3,7 @@ const username = document.getElementById("user-name");
 const email = document.getElementById("Email");
 const password = document.getElementById("password");
 const password2 = document.getElementById("password2");
+alert("لوی لالا رسنیز شرکت");
 
 //. show error message
 function ShowError(input, message) {
